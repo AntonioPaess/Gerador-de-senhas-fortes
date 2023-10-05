@@ -47,10 +47,10 @@
      CREATE TABLE IF NOT EXISTS senhas (
         id INTEGER PRIMARY KEY AUTOINCREMENT,
         nome VARCHAR(200) NOT NULL,
-        senha TEXT NOT NULL
- )
-    """) -> Essas linhas de código estão sendo usadas para criar uma tabela chamada "senhas" no banco de dados SQLite, caso ela não exista. 
-            Vamos analisar cada parte:
+        senha TEXT NOT NULL)""")
+    
+Essas linhas de código estão sendo usadas para criar uma tabela chamada "senhas" no banco de dados SQLite, caso ela não exista. 
+Vamos analisar cada parte:
 
 cursor = conexao.cursor(): Aqui, você está criando um objeto de cursor que permite executar comandos SQL no banco de dados. 
 O cursor é uma parte essencial ao trabalhar com bancos de dados SQLite, 
