@@ -167,7 +167,8 @@ def consultar_senha():
     quando você terminar de usá-lo para garantir que seus recursos sejam liberados e que seu 
     programa funcione de maneira eficiente e consistente.
 --- 
-# Basicamente é isso! Caso queiram ajudar fiquem a vontade sou iniciante ainda em Python e estou treinando, queria transformar isso em um aplicativo porrem ainda não tenho conhecimento no momento. Obrigado desde já a todos que decidirem me ajudar para atualizar esse gerador de senhas para sua versão 2.0
+
+## Basicamente é isso! Caso queiram ajudar fiquem a vontade sou iniciante ainda em Python e estou treinando, queria transformar isso em um aplicativo porém ainda não tenho conhecimento no momento. Obrigado desde já a todos que decidirem me ajudar para atualizar esse gerador de senhas para sua versão 2.0
 
 
 
