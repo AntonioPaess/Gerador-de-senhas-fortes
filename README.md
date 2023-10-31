@@ -1,10 +1,13 @@
 # Meu primeiro Projeto
 ---
 ## Esse é um projeto de um gerador de senhas fortes
-    Antes de mais nada acho que devo fazer um breve resumo do que esse projeto faz.
-    Basicamente ele gera senhas fortes e as guardas em um banco de dados para que você possa
-    futuramente caso esqueça a senha rever-lá e também você tem a possibilidade de apagar elas
-    e gerar novas senhas fortes para suas novas contas.
+    Estou entusiasmado em anunciar a atualização do nosso aplicativo de senhas fortes. Agora, ele incorpora um banco de dados que armazena o nome de usuário e o ID do usuário, convertendo-os em hashes para garantir a segurança dos dados. Além disso, apenas o próprio usuário pode acessar e visualizar sua senha. Essas melhorias foram acompanhadas pela introdução de dois menus distintos: o menu geral e o menu do usuário.
+
+    Estou comprometido em aprimorar ainda mais o código deste aplicativo para garantir a máxima segurança e eficiência. Estamos atentos às melhores práticas de segurança e planejamos implementar medidas adicionais, como o uso de "salts" para aumentar a segurança das senhas e a adoção de bibliotecas de criptografia confiáveis. Também estamos considerando a implementação de políticas de senhas robustas, armazenamento seguro de informações do usuário e um procedimento seguro de recuperação de senhas esquecidas.
+
+    Além disso, planejamos adicionar recursos como a autenticação de dois fatores (2FA), logs detalhados e capacidade de auditoria para rastrear atividades suspeitas, restrições de acesso rigorosas e testes de segurança abrangentes. A documentação clara sobre o funcionamento do sistema e as práticas de segurança adotadas será uma parte essencial do nosso esforço.
+
+   
 ---
 ## Esse código basicamente é feito baseado em três bibliotecas do Python sendo elas:
     -> Random
