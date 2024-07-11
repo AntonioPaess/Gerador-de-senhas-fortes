@@ -27,11 +27,8 @@
 
 # A biblioteca Sqlite3:
     Eu realmente não tinha ideia de que era possível realizar a criação de um banco de dados
-    utilizando uma biblioteca no Python por isso tive que recorrer ao chatgpt e perguntar
-    como criar um banco de dados utilizando Python e assim ele me indicou essa biblioteca
-    na qual tive que parar e estudar e ainda tenho que estudar mais pois tiveram muitos 
-    erros que o chatgpt me ajudaram. Em resumo o Chat gpt é muito bom para o aprendizado e 
-    assim foi minha jornada utilizando essa biblioteca. Agora vou falar o comandos que utilizei dela:
+    utilizando uma biblioteca no Python. Por isso, realizei pesquisas com o objetivo de elucidar ideias e alternativas de 
+    como criar um banco de dados utilizando Python.
 ---
 
     conexao = sqlite3.connect("senhas.db") -> A linha conexao = sqlite3.connect("senhas.db")  está criando uma conexão com um banco de dados SQLite chamado "senhas.db". 
